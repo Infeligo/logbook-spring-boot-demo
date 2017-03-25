@@ -1,6 +1,6 @@
 Logbook Spring Boot Starter demo
 ================================
 
-This is a simple Spring Boot application to test 1.2.0-SNAPSHOT version of Zalando's Logbook Spring Boot Starter.
+This is a simple Spring Boot application to test 1.1.1 version of Zalando's Logbook Spring Boot Starter.
 
-The feature in test is proper `logbook-httpclient` exlusion. See `build.gradle` for more details.
+The problem in test is the exception thrown when trying to access `/favicon.ico` path.
